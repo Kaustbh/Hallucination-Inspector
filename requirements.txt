@@ -1,0 +1,3 @@
+uqlm
+streamlit
+langchain

@@ -1,0 +1,11 @@
+[project]
+name = "hallucination-inspector"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.3.26",
+    "streamlit>=1.46.1",
+    "uqlm>=0.1.7",
+]
