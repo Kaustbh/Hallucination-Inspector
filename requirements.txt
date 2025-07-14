@@ -1,3 +1,9 @@
 uqlm
 streamlit
 langchain
+langchain-groq
+langchain-google-genai
+langchain-openai
+python-dotenv
+plotly
+pandas
